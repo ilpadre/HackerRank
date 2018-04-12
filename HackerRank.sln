@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConstruction", "Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{F835BD21-859E-466F-B1B4-91E52DB0F49A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays-DS", "Arrays-DS\Arrays-DS.csproj", "{AA615298-8DAB-453C-BDBD-1489F8EE1FFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,8 +47,15 @@ Global
 		{F835BD21-859E-466F-B1B4-91E52DB0F49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F835BD21-859E-466F-B1B4-91E52DB0F49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F835BD21-859E-466F-B1B4-91E52DB0F49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA615298-8DAB-453C-BDBD-1489F8EE1FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA615298-8DAB-453C-BDBD-1489F8EE1FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA615298-8DAB-453C-BDBD-1489F8EE1FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA615298-8DAB-453C-BDBD-1489F8EE1FFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A79D8B-74CA-4866-B309-28E4BAABEE0F}
 	EndGlobalSection
 EndGlobal
